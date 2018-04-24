@@ -1,0 +1,5 @@
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVetorN03\bin\Debug\listaVetorN03.exe.config
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVetorN03\bin\Debug\listaVetorN03.exe
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVetorN03\bin\Debug\listaVetorN03.pdb
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVetorN03\obj\Debug\listaVetorN03.exe
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVetorN03\obj\Debug\listaVetorN03.pdb
