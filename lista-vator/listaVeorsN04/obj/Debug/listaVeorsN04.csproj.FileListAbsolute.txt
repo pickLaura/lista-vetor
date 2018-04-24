@@ -1,0 +1,6 @@
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVeorsN04\bin\Debug\listaVeorsN04.exe.config
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVeorsN04\bin\Debug\listaVeorsN04.exe
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVeorsN04\bin\Debug\listaVeorsN04.pdb
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVeorsN04\obj\Debug\listaVeorsN04.csprojResolveAssemblyReference.cache
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVeorsN04\obj\Debug\listaVeorsN04.exe
+C:\Users\104965\Documents\GitHub\lista-vetor\lista-vator\listaVeorsN04\obj\Debug\listaVeorsN04.pdb
