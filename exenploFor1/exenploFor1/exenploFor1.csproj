@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8F5B563A-820D-4CC0-B94E-B84C9734D89F}</ProjectGuid>
+    <ProjectGuid>{FC497AE4-AF5F-4869-9CE2-CCA30752744C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>listaVetorN06</RootNamespace>
-    <AssemblyName>listaVetorN06</AssemblyName>
+    <RootNamespace>exenploFor1</RootNamespace>
+    <AssemblyName>exenploFor1</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="EX6.cs" />
+    <Compile Include="Exenplo02.cs" />
+    <Compile Include="Exenplo4.cs" />
+    <Compile Include="exenplo5.cs" />
+    <Compile Include="Explo01.cs" />
+    <Compile Include="EXVetorcomFor.cs" />
+    <Compile Include="pricipal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
